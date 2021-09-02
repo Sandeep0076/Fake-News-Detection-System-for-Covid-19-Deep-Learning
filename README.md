@@ -1,6 +1,6 @@
 # Fake-News-Detection-System-for-Covid-19
 
-A deep learning Hybrid BERT-LSTM Model to classify fake news.  
+The aim of this project is to create an interpretable model which is trustworthy. When an url is given to the model, along with the output it will also show the reasons on which the following decision was taken, building trust among the use in the system.
 Training: 
 1. Scraped data from the websites to create a dataset of 37000 articles containing fake and real news. 
 2. The articles are divided into segments if its length is more than 200 words as BERT can only take 512 tokens.
