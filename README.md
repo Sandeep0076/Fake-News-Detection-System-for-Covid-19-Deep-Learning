@@ -21,3 +21,4 @@ What I did ?
 8. Later the model was interpreted by LIME model and article was diplayed with highlighted text words along with their words displaying the reasons for the predictions.
 9. Finally a research was done on the interpretation of the test result and common patterns and findings was explained.  
 
+Working example can be seen here : https://drive.google.com/file/d/1wlcqLd4ovgUDFztIyXFnJyqYXCqHuBaq/view?usp=sharing
